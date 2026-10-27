@@ -35,39 +35,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://palsum.app"><img src="assets/palsum.jpg" alt="Palsum"/></a>
+      <h3><a href="https://palsum.app">Palsum</a></h3>
+      <p>Split the bill, skip the awkward text. Add the hangout, Palsum works out who pays whom down to the last paisa, then reminds your friend until they tap Sent. Built with a friend, on Android and iPhone.</p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://rahmanbuilds.com/pastpapers"><img src="assets/pastpapers.jpg" alt="Past Paper Finder"/></a>
       <h3><a href="https://rahmanbuilds.com/pastpapers">Past Paper Finder</a></h3>
-      <p>Every past paper in Pakistan, free. 26 boards, 5 entry tests, 29,737 practice questions. Built in one day with Claude Code.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://rahmanbuilds-dreamportal.vercel.app"><img src="assets/dreamportal.jpg" alt="Dream Portal"/></a>
-      <h3><a href="https://rahmanbuilds-dreamportal.vercel.app">Dream Portal</a></h3>
-      <p>Fly through 14 real places, scanned in 3D, in your browser.</p>
+      <p>Every past paper in Pakistan, free. 26 boards, 5 entry tests, 65,032 practice questions. Built in one day with Claude Code.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://rahmanbuilds-roasted.vercel.app"><img src="assets/roasted.jpg" alt="Roasted"/></a>
-      <h3><a href="https://rahmanbuilds-roasted.vercel.app">Roasted</a></h3>
-      <p>Paste a URL and an AI design critic grades your landing page S to F.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://rahmanbuilds-cofounder.vercel.app"><img src="assets/cofounder.jpg" alt="Cofounder"/></a>
-      <h3><a href="https://rahmanbuilds-cofounder.vercel.app">Cofounder</a></h3>
-      <p>Pitch an idea to real founder brainsets. Argue back and the score moves.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://rahmanbuilds-brandbox.vercel.app"><img src="assets/brandbox.jpg" alt="Brandbox"/></a>
-      <h3><a href="https://rahmanbuilds-brandbox.vercel.app">Brandbox</a></h3>
-      <p>Type a name and a vibe, get a full brand in six design languages.</p>
-    </td>
     <td width="50%" valign="top">
       <a href="https://rahmanbuilds.com/resources"><img src="assets/drops.jpg" alt="The Drops"/></a>
       <h3><a href="https://rahmanbuilds.com/resources">The Drops</a></h3>
       <p>A free resource for every reel. Comment a word, get the page.</p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
